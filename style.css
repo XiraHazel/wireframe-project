@@ -4,4 +4,14 @@
 
 .red {
   background-color: pink;
+  height:100px;
+}
+#header{
+  margin-left:300px;
+}
+#body{
+  margin-left:300px;
+}
+#footer{
+  margin-bottom:500px;
 }
